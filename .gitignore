@@ -1,2 +1,4 @@
 .env
 run.py
+/k8s/secrets.yml
+/diagram-images/*
